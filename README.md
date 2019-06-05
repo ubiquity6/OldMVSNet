@@ -1,5 +1,9 @@
 # MVSNet
 
+## Important
+
+This is the old public repo for MVSNet. Future changes to this repo have been made private. Ubiquity6 users please redirect to https://github.com/ubiquity6/MVSNet
+
 ## Training on ml-engine
 
 * Clone the repo
